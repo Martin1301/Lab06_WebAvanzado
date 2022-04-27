@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "stories" ALTER COLUMN "name" SET DATA TYPE TEXT,
+ALTER COLUMN "description" SET DATA TYPE TEXT;
